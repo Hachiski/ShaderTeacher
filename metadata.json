@@ -1,0 +1,5 @@
+{
+  "name": "ShaderAcademy",
+  "description": "An interactive WebGL shader editor and educational platform powered by Gemini. Learn GLSL techniques, visualize math functions, and generate shader code with AI assistance.",
+  "requestFramePermissions": []
+}
